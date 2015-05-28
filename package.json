@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/matthewbednarski/files-in-folders.git"
+    "url": "ssh://git@github.com/matthewbednarski/files-in-folders.git"
   },
   "author": "Matthew Carl Bednarski",
   "license": "ISC",
