@@ -1,0 +1,22 @@
+{
+  "name": "files-in-folders",
+  "version": "1.0.0",
+  "description": "a script for reorganizing a tree of files by their date of creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/matthewbednarski/files-in-folders.git"
+  },
+  "author": "Matthew Carl Bednarski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthew.bednarski/files-in-folders/issues"
+  },
+  "homepage": "https://github.com/matthew.bednarski/files-in-folders#readme",
+  "dependencies": {
+    "moment": "^2.10.3"
+  }
+}
